@@ -114,7 +114,7 @@ After following any of these methods, your Terminal will be opened in the direct
 
 ### Terminate The Created Ubuntu Server
 
-You would be tasked with figuring ut how to do this by yourself. Take a look around your EC2 page in the AWS console and figure it out. Or do a little research online.
+You will be tasked with figuring out how to do this on your own. Take a look at your EC2 page in the AWS Console and figure it out, or do some research online.
 
 > [!NOTE]
 Terminate, don't stop. **Terminate your instance.**
